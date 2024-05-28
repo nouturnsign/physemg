@@ -1,5 +1,6 @@
 /old_data/
 /temp/
+/output/
 /venv/
 
 .vscode
