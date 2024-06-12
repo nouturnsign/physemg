@@ -1,6 +1,6 @@
 # physemg
-UCLA PHYSICS 4AL Project Analysis repository. The C.U.T. Using B.U.L.K.:
-Exploring the Relationship Between Muscle Contraction and Weight Lifted Using an EMG.
+The C.U.T. Using B.U.L.K.: Exploring the Relationship Between Muscle
+Contraction and Weight Lifted Using an EMG.
 
 ## Description
 Data is found in `/data`. Figures are found in `/output`. Code is all within
