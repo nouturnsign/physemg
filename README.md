@@ -3,7 +3,7 @@ The C.U.T. Using B.U.L.K.: Exploring the Relationship Between Muscle
 Contraction and Weight Lifted Using an EMG.
 
 ## Description
-Data is found in `/data`. Figures are found in `/output`. Code is all within
+Data is found in `/data`. Figures are found in `/figures`. Code is all within
 `/preanalysis.ipynb`.
 
 ## Setup
@@ -54,4 +54,5 @@ The notebook generates the following figures:
   regression.
 - `e20data.png`: Example dataset: Ena 20 lbs.
 - `e20ranges.png`: Example dataset with ranges: Ena 20 lbs.
+- `ealldata.png`: Example dataset with ranges over all weights: Ena.
 - `k17data.png`: Example erroneous dataset: Khanh 17.5 lbs.
